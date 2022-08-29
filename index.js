@@ -24,10 +24,13 @@ function hasTargetSum(array, target) {
 
 /* 
   Add your pseudocode here
+  if equal return true
+  if false move to next number
 */
 
 /*
   Add written explanation of your solution here
+  when x is less than the array length it should move to the next 
 */
 
 // You can run `node index.js` to view these console logs
